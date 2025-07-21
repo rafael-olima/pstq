@@ -483,7 +483,7 @@ def main():
 
     st.write("---")
     st.markdown(
-        "Contato: mailto: rafael.olima@gmail.com"
+        "Desenvolvido por: rafael.olima@gmail.com"
     )
 
 
