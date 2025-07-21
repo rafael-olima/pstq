@@ -2,7 +2,7 @@ import streamlit as st
 
 
 def main():
-    st.title("🇨🇦 Calculadora de Pontos - Imigração Quebec (PSTQ)")
+    st.title("🇨🇦 Calculadora de Pontos - Imigração Quebec (PSTQ) - Não Oficial")
     st.write("Sistema de pontuação para o Programa de Seleção dos Trabalhadores Qualificados")
     st.write("---")
 
